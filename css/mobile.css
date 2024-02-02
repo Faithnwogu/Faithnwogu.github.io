@@ -186,7 +186,7 @@
     }
     
     .aboutme{
-          margin-top:6rem;
+          margin-top:4rem;
           text-align: center;
           display: grid;
           gap:1rem;
@@ -307,7 +307,7 @@
                                color:white;
                                background-color: black;
                                padding:.5rem;
-                               width:120px;
+                               width:180px;
                                border-radius:2px;
                        }   
                   }
